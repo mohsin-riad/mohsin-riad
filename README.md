@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohsin - aka [mohsin-riad][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imriad)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mohsin-riad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imriad)
 
 ## I'm a Student, Competetive Programmer & Newbie Developer!!
 
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="mohsinriad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+[<img align="left" alt="mohsinriad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mohsin riad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="mohsin riad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mohsin riad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
