@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/imriad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imriad)
 
-## I'm a Student, Competetive Programmer & Newbie Developer!!
+## I'm a Student, Competitive Programmer & Newbie Developer!!
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate in other creative projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute in more Open Source projects
 
 ### Connect with me:
 
