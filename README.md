@@ -1,7 +1,5 @@
 ### Hi there, I'm Mohsin - aka [mohsin-riad][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/imriad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imriad)
-
 ## I'm a Student, Competitive Programmer & Newbie Developer!!
 
 - 🌱 I’m currently learning everything 
@@ -39,7 +37,7 @@
 ---
  
 [twitter]: https://twitter.com/iamriad
-[website]: https://facebook.com/mdmohsin.riad
+[website]: https://mohsin-riad.github.io/
 [youtube]: https://www.youtube.com/channel/UC7MjC_y8lv1StUVJkyTUl0Q
 [instagram]: https://instagram.com/mohsin_riad
 [linkedin]: https://www.linkedin.com/in/mohsin-riad/
