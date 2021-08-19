@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohsin - aka [mohsin-riad][website] 👋
 
-## I'm a Student, Competitive Programmer & Newbie Developer!!
+## I'm a Student, Competitive Programmer & FullStack Developer!!
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate in other creative projects
