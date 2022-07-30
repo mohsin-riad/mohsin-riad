@@ -1,10 +1,10 @@
-### Hi there, I'm Mohsin - aka [mohsin-riad][website] 👋
+### Hi there, I'm Mohsin - aka [mohsin-riad](https://www.linkedin.com/in/mohsin-riad) 👋
 
-## I'm a Student, Competitive Programmer & FullStack Developer!!
+## I'm a FullStack Developer | Competitive Programmer | ML DL Enthusiast
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate in other creative projects
-- 🥅 2021 Goals: Contribute in more Open Source projects
+- 🥅 2022 Goals: Contribute in more Open Source projects
 
 ### Connect with me:
 
