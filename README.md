@@ -1,38 +1,66 @@
-### Hi there, I'm Mohsin - aka [mohsin-riad](https://www.linkedin.com/in/mohsin-riad) 👋
+<p align="center"><a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQFqK8zY67cP7Q/profile-displaybackgroundimage-shrink_350_1400/0/1655661026674?e=1668038400&v=beta&t=OzXHLpQgQTEzLL-uMvajKTKbQzGB881T2leDbpp0awQ"/></a></p>
 
-## I'm a FullStack Developer | Competitive Programmer | ML DL Enthusiast
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=Hey,+There!;I+am+Mohsin+Ali+Riad;Computer+Science+Engineering+Undergrad)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate in other creative projects
-- 🥅 2022 Goals: Contribute in more Open Source projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Focus-Reserch-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Chittagong-success" />
+  <img src="https://komarev.com/ghpvc/?username=mohsin-riad&color=brightgreen&style=flat-square" alt="views on github" />
+  <img src="https://img.shields.io/github/followers/mohsin-riad.svg?style=social&label=Followers" />
+</p>
 
-### Connect with me:
-
-[<img align="left" alt="mohsinriad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mohsin riad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="mohsin riad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][website]
-[<img align="left" alt="mohsin riad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mohsin riad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mohsin riad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<h2 align="center"> 👨‍💻 Languages and Tools:</h2>
 <br />
 
-### Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,,php,,c,,cpp,,python,,laravel,,vue,,nodejs,,jquery,,css,,styledcomponents,,sass,,tailwind,,bootstrap,,git,,github,,linux,,bash,,mysql,,postgres,,heroku,,netlify,,docker,,azure,,aws,,tensorflow,,vscode,&perline=9" />
+  </a>
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<h2 align="center"> 🏆 GitHub Achievements:</h2>
+<br/>
+<p align="center">
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mohsin-riad&row=1&theme=discord"></a>
+</p>
+<br/>
 
-<br />
-<br />
+<h2 align="center"> 📊 GitHub Profile Stats </h2>
+<br/>
+<div align="center">
+ 
+[![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsin-riad&include_all_commits=true&show_icons=true&theme=dark&custom_title=MY%20STATS)](https://github.com/mohsin-riad/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-riad&langs_count=8&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact&custom_title=LANGS)](https://github.com/mohsin-riad/github-readme-stats)
+<!-- theme names: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
+<br/>
+
+<div align="center">
+ 
+## FullStack | Competitive Programmer | ML DL Enthusiast
+
+> 🌱 I’m currently learning everything 
+
+> 👯 I’m looking to collaborate in other creative projects
+
+> 🥅 2022 Goals: Contribute in more Open Source projects
+
+ 
+```
+             ____                  ____                      
+           / __ \___  ___ ___    / __/__  __ _____________  
+          / /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+          \____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+             _/_/                  __  __   _               
+            / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+           / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+          /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                           /___/                /___/       
+ ```
+ 
+</div>
+
 
 ---
  
