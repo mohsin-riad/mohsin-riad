@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQFqK8zY67cP7Q/profile-displaybackgroundimage-shrink_350_1400/0/1655661026674?e=1668038400&v=beta&t=OzXHLpQgQTEzLL-uMvajKTKbQzGB881T2leDbpp0awQ"/></a></p>
+<p align="center"><a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQFqK8zY67cP7Q/profile-displaybackgroundimage-shrink_350_1400/0/1655661026674?e=1673481600&v=beta&t=BtG0LtPU4xgaNPEWroDEPRrpg456fRayXFDs1P-yXIM"/></a></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=Hey,+There!;I+am+Mohsin+Ali+Riad;Computer+Science+Engineering+Undergrad)](https://git.io/typing-svg)
 
