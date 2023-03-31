@@ -1,6 +1,6 @@
-<p align="center"><a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQFqK8zY67cP7Q/profile-displaybackgroundimage-shrink_350_1400/0/1655661026674?e=1673481600&v=beta&t=BtG0LtPU4xgaNPEWroDEPRrpg456fRayXFDs1P-yXIM"/></a></p>
+<p align="center"><a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/C4D16AQFqK8zY67cP7Q/profile-displaybackgroundimage-shrink_350_1400/0/1655661026674?e=1685577600&v=beta&t=vY9509xFFEwLdhhCPlwO0Uy3_mMjWs9s4XP3Uy27G8Y"/></a></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=Hey,+There!;I+am+Mohsin+Ali+Riad;Computer+Science+Engineering+Undergrad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=It's+Mohsin+Ali+Riad;Computer+Science+Undergrad;Solving+Real+World+AI+Problems;Providing+NLP+GPT+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-24-blue" />
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,,php,,c,,cpp,,python,,laravel,,vue,,nodejs,,jquery,,css,,styledcomponents,,sass,,tailwind,,bootstrap,,git,,github,,linux,,bash,,mysql,,postgres,,heroku,,netlify,,docker,,azure,,aws,,tensorflow,,vscode,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,,php,,c,,cpp,,javascript,,laravel,,vue,,nodejs,,jquery,,css,,styledcomponents,,sass,,tailwind,,bootstrap,,git,,github,,linux,,bash,,mysql,,postgres,,heroku,,netlify,,docker,,azure,,aws,,tensorflow,,vscode,&perline=9" />
   </a>
 </p>
 
@@ -38,13 +38,13 @@
 
 <div align="center">
  
-## FullStack | Competitive Programmer | ML DL Enthusiast
+## Data Driven Engineer | NLP Researcher
 
 > 🌱 I’m currently learning everything 
 
 > 👯 I’m looking to collaborate in other creative projects
 
-> 🥅 2022 Goals: Contribute in more Open Source projects
+> 🥅 2023 Goals: Contribute in more Open Source projects
 
  
 ```
