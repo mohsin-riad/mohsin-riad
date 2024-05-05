@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/C4D16AQFqK8zY67cP7Q/profile-displaybackgroundimage-shrink_350_1400/0/1655661026674?e=1698278400&v=beta&t=Dnqjwkix_HDH619uWImVz7MfTWM0GFJEYu1kc-braTQ"/></a></p>
+<p align="center"><a href="#"><img width="100%" height="auto" src="cover.jpeg"/></a></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=It's+Mohsin+Ali+Riad;Computer+Science+Undergrad;Solving+Real+World+AI+Problems;Providing+NLP+GPT+Solutions)](https://git.io/typing-svg)
 
@@ -44,7 +44,7 @@
 
 > 👯 I’m looking to collaborate in other creative projects
 
-> 🥅 2023 Goals: Contribute in more Open Source projects
+> 🥅 2024 Goals: Contribute in more Open Source projects
 
  
 ```
